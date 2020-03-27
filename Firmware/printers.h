@@ -41,6 +41,5 @@
 #define PRINTER_BEARMERA_NAME      "BEARMERA"
 #define PRINTER_MK3S_MMU2          20302
 #define PRINTER_MK3S_MMU2_NAME     "MK3SMMU2S"
-#endif //PRINTERS_H
 
 #endif //PRINTERS_H
